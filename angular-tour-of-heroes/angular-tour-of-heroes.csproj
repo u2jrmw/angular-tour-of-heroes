@@ -70,14 +70,6 @@
   <ItemGroup>
     <Content Include="app\hero-detail.component.html" />
     <Content Include="packages.config" />
-    <Content Include="app\app.component.js.map" />
-    <Content Include="app\dashboard.component.js.map" />
-    <Content Include="app\hero-detail.component.js.map" />
-    <Content Include="app\hero.js.map" />
-    <Content Include="app\hero.service.js.map" />
-    <Content Include="app\heroes.component.js.map" />
-    <Content Include="app\main.js.map" />
-    <Content Include="app\mock-heroes.js.map" />
     <Content Include="package.json" />
     <Content Include="tsconfig.json" />
     <Content Include="typings.json" />
@@ -91,15 +83,7 @@
   <ItemGroup>
     <Content Include="Angular-heroes.csproj" />
     <Content Include="Angular-heroes.csproj.user" />
-    <Content Include="app\app.component.js" />
     <Content Include="app\dashboard.component.html" />
-    <Content Include="app\dashboard.component.js" />
-    <Content Include="app\hero-detail.component.js" />
-    <Content Include="app\hero.js" />
-    <Content Include="app\hero.service.js" />
-    <Content Include="app\heroes.component.js" />
-    <Content Include="app\main.js" />
-    <Content Include="app\mock-heroes.js" />
     <Content Include="index.html" />
     <Content Include="styles.css" />
     <Content Include="systemjs.config.js" />
